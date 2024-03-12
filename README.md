@@ -3,3 +3,4 @@ These are the projects made by me during Advance machine learning lab. I'll be l
 
 Exp 1 = machine learning model for house price prediction and analysis using lasso and ridge regression
 Exp 2 = machine learning model on hand written digits and compare the models using evaluation techniques.
+Exp 5 = build a classification model on heart disease UCI dataset using ensemble techniques.
